@@ -18,5 +18,12 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    int populaçao, numerodepontosturisticos;
+    char estado;
+    char codigodecarta[5], nomedacidade[15];
+    float areadekm2, PIB;
+
+
+
     return 0;
 }
